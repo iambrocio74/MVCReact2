@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\CursoWEB\\MVCReactApp2\\MVCReactApp2.Server\\..\\mvcreactapp2.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

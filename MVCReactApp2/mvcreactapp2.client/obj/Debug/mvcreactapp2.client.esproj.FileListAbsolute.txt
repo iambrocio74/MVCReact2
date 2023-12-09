@@ -1,0 +1,1 @@
+D:\CursoWEB\MVCReactApp2\mvcreactapp2.client\obj\Debug\mvcreactapp2.client.esproj.CoreCompileInputs.cache
